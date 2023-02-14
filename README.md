@@ -1,4 +1,6 @@
-![HEart-failure](https://user-images.githubusercontent.com/85582924/218622949-231c8233-18e3-46ad-a995-d89fe7a2c992.png)
+<p align="center">
+  <img src = "Images/heart_failure.png" width="1500">
+</p>
 
 # Heart Matters - Heart Failure Prediction
 
